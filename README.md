@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arrifatt&label=Profile%20views&color=0e75b6&style=flat" alt="arrifatt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arrifatt" alt="arrifatt" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ar-riifat" alt="ar-riifat" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ar_rifatt" target="blank"><img src="https://img.shields.io/twitter/follow/ar_rifatt?logo=twitter&style=for-the-badge" alt="ar_rifatt" /></a> </p>
 
