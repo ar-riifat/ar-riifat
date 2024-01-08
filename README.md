@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AR Rifat</h1>
+<h1 align="center">Hi 👋, I'm Anisur Rahman</h1>
 <h3 align="center">A frontend developer from BD</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arrifatt&label=Profile%20views&color=0e75b6&style=flat" alt="arrifatt" /> </p>
